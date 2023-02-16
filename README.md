@@ -1,2 +1,1 @@
-# trex-game
-Chrome's trex game
+# Juegos-compatibles-con-dispositivos
